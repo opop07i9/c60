@@ -1,0 +1,29 @@
+body{
+text-align: center;
+}
+h1 {
+font-size: 40px;
+font-family: inherit;
+font-weight: 300;    
+}
+.line {
+height: 6px;
+background-color: blueviolet;
+width: 70px;
+margin: 8px auto;
+}
+#apps {
+width: 100%;
+height: 800px;
+background-color: aliceblue;    
+}
+#game {
+width: 100%;
+height: 800px;
+background-color: aliceblue;
+}
+#chatbot{
+width: 100%;
+height: 800px;
+background-color: aliceblue;
+}
